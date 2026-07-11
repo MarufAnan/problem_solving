@@ -2,7 +2,7 @@
 
 This repository contains solutions to common Python coding interview questions.
 
-> **Solutions are available in the `Most_ask_question/` directory.**
+> **Solutions are available in the current directory.**
 
 ---
 
@@ -12,7 +12,7 @@ This repository contains solutions to common Python coding interview questions.
 
 Convert an integer into a Decimal object.
 
-**Solution:** [p1.py](./Most_ask_question/p1.py)
+**Solution:** [p1.py](./p1.py)
 
 ---
 
@@ -22,7 +22,7 @@ Convert an integer into a Decimal object.
 
 Convert a numeric string into a Decimal object.
 
-**Solution:** [p2.py](./Most_ask_question/p2.py)
+**Solution:** [p2.py](./p2.py)
 
 ---
 
@@ -32,7 +32,7 @@ Convert a numeric string into a Decimal object.
 
 Reverse a string using slicing.
 
-**Solution:** [p3.py](./Most_ask_question/p3.py)
+**Solution:** [p3.py](./p3.py)
 
 ---
 
@@ -42,7 +42,7 @@ Reverse a string using slicing.
 
 Count the number of vowels in a string.
 
-**Solution:** [p4.py](./Most_ask_question/p4.py)
+**Solution:** [p4.py](./p4.py)
 
 ---
 
@@ -52,7 +52,7 @@ Count the number of vowels in a string.
 
 Count the number of consonants in a string.
 
-**Solution:** [p5.py](./Most_ask_question/p5.py)
+**Solution:** [p5.py](./p5.py)
 
 ---
 
@@ -62,7 +62,7 @@ Count the number of consonants in a string.
 
 Count the occurrences of a character in a string.
 
-**Solution:** [p6.py](./Most_ask_question/p6.py)
+**Solution:** [p6.py](./p6.py)
 
 ---
 
@@ -72,7 +72,7 @@ Count the occurrences of a character in a string.
 
 Generate the Fibonacci series.
 
-**Solution:** [p7.py](./Most_ask_question/p7.py)
+**Solution:** [p7.py](./p7.py)
 
 ---
 
@@ -86,7 +86,7 @@ Write a program to:
 - Find the smallest element in a list.
 - Find the middle element of a list.
 
-**Solution:** [p8.py](./Most_ask_question/p8.py)
+**Solution:** [p8.py](./p8.py)
 
 ---
 
@@ -96,7 +96,7 @@ Write a program to:
 
 Convert a list into a string.
 
-**Solution:** [p9.py](./Most_ask_question/p9.py)
+**Solution:** [p9.py](./p9.py)
 
 ---
 
@@ -106,7 +106,7 @@ Convert a list into a string.
 
 Add corresponding elements of two lists.
 
-**Solution:** [p10.py](./Most_ask_question/p10.py)
+**Solution:** [p10.py](./p10.py)
 
 ---
 
@@ -116,7 +116,7 @@ Add corresponding elements of two lists.
 
 Check whether two strings are anagrams.
 
-**Solution:** [p11.py](./Most_ask_question/p11.py)
+**Solution:** [p11.py](./p11.py)
 
 ---
 
@@ -126,7 +126,7 @@ Check whether two strings are anagrams.
 
 Check whether a string is a palindrome.
 
-**Solution:** [p12.py](./Most_ask_question/p12.py)
+**Solution:** [p12.py](./p12.py)
 
 ---
 
@@ -136,7 +136,7 @@ Check whether a string is a palindrome.
 
 Count the number of white spaces in a string.
 
-**Solution:** [p13.py](./Most_ask_question/p13.py)
+**Solution:** [p13.py](./p13.py)
 
 ---
 
@@ -151,7 +151,7 @@ Write a program to count:
 - White Spaces
 - Special Characters
 
-**Solution:** [p14.py](./Most_ask_question/p14.py)
+**Solution:** [p14.py](./p14.py)
 
 ---
 
@@ -161,7 +161,7 @@ Write a program to count:
 
 Remove all white spaces from a string.
 
-**Solution:** [p15.py](./Most_ask_question/p15.py)
+**Solution:** [p15.py](./p15.py)
 
 ---
 
@@ -171,7 +171,7 @@ Remove all white spaces from a string.
 
 Print a pyramid pattern using stars.
 
-**Solution:** [p16.py](./Most_ask_question/p16.py)
+**Solution:** [p16.py](./p16.py)
 
 ---
 
@@ -181,4 +181,4 @@ Print a pyramid pattern using stars.
 
 Randomize the elements of a list.
 
-**Solution:** [p17.py](./Most_ask_question/p17.py)
+**Solution:** [p17.py](./p17.py)
