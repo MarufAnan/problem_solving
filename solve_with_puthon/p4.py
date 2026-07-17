@@ -1,24 +1,14 @@
 # Question:
-# Define a class which has at least two methods:
-# getString: to get a string from console input
-# printString: to print the string in upper case.
-# Also please include simple test function to test the class methods.
+# With a given integral number n, write a program to generate a dictionary that contains (i, i*i) such that is an integral number between 1 and n (both included). and then the program should print the dictionary.
+# Suppose the following input is supplied to the program:
+# 8
+# Then, the output should be:
+# {1: 1, 2: 4, 3: 9, 4: 16, 5: 25, 6: 36, 7: 49, 8: 64}
 
+n=int(input("Enter a number:"))
+d=dict()
 
-class InputOutString(object):
-    def __init__(self):
-        self.s = ""
+for i in range(1,n+1):
+    d[i]=i*i
     
-    def getString(self):
-        self.s = input("Enter a string:")
-        
-    def printString(self):
-        print (self.s.upper())
-        
-def test():
-    strObj =InputOutString()
-    strObj.getString()
-    strObj.printString()
-
-if __name__ == "__main__":
-    test()
+print (d)

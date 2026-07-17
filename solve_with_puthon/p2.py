@@ -1,15 +1,16 @@
 # Question:
-# Write a program which accepts a sequence of comma-separated numbers from console and generate a list and a tuple which contains every number.
+# Write a program which can compute the factorial of a given numbers.
+# The results should be printed in a comma-separated sequence on a single line.
 # Suppose the following input is supplied to the program:
-# 34,67,55,33,12,98
+# 8
 # Then, the output should be:
-# ['34', '67', '55', '33', '12', '98']
-# ('34', '67', '55', '33', '12', '98')
+# 40320
 
-values = input("Enter the numbers with commas: ")
-l = values.split(",")
 
-t = tuple(l)
+def fact(x):
+    if x==0:
+        return 1
+    return x* fact(x-1)
 
-print(l)
-print(t)
+n=int(input("Enter a number:"))
+print (fact(n))
