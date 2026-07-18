@@ -10,3 +10,7 @@
 # We use set container to remove duplicated data automatically and then use sorted() to sort the data.
 
 
+s = input("enter a sequence of whitespace separated words:")
+words = [word for word in s.split(" ")]
+
+print(" ".join(sorted(list(set(words)))))
